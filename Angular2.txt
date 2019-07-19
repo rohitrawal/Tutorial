@@ -28,19 +28,5 @@ Package.Json
 systemjs.config.js
 'npm:': '/node_modules/'
 
-----------------------
-git init
-git add .
-git commit -m "Fist Commit"
---create repository in git site
-git remote add origin https://github.com/rohitrawal/Angular2Demo.git
-git push origin master
----
-git pull origin master
-git branch branchname --create a branch
-git branch -- to check which branch we are right now
-git branch -d branchname -- delete branch
-git checkout branchname -- switch one branch to another branch
-git log --help to see history of repository
-git stash -- change will not reflect in master branch if we will switch after stash
+
   
